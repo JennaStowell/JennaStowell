@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Jenna 👋  
 
-<!--
-**JennaStowell/JennaStowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Grad | Cybersecurity Enthusiast | Software Developer**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this GitHub to document my journey in **cybersecurity engineering** and **software development**.  
+Here you’ll find a mix of hands-on security labs and coding projects that highlight my technical skills, curiosity, and growth mindset.  
+
+**Here are some of my *goals*:**
+
+🔐 **Cybersecurity Projects**  
+- Configuring and hardening firewalls & intrusion detection systems  
+- Security-focused labs (network monitoring, endpoint protection, threat simulations)  
+- Documenting best practices and lessons learned along the way  
+
+💡 **Software Development Projects**  
+- Full-stack web applications (Next.js, JavScript, PostgreSQL)  
+- Automation scripts and tools for security analysis  
+- Exploratory coding projects (e.g., a web crawler for email pattern analysis and phishing defense research)  
+
+📚 **Currently Learning**  
+- Securiti's AI Security and Governance Certificate ✅ 
+- CompTIA+ Security Cert  (In Progress)
+
+📫 **Connect with me**  
+- [LinkedIn](https://www.linkedin.com/in/jenna-m-stowell/)  
+- [Email](mailto:jstolimaria@gmail.com)  
+
+---
+⭐️ From [Jenna](https://github.com/JennaStowell)
