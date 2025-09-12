@@ -18,8 +18,9 @@ Here you’ll find a mix of hands-on security labs and coding projects that high
 - Automation scripts and tools for security analysis  
 - Exploratory coding projects (e.g., a web crawler for email pattern analysis and phishing defense research)  
 
-📚 **Currently Learning**  
-- Securiti's AI Security and Governance Certificate ✅ 
+📚 **Currently Accomplished**  
+- Securiti's AI Security and Governance Certificate ✅
+- [Simulated Password Cracker](https://github.com/JennaStowell/password_cracker) ✅
 - CompTIA+ Security Cert  *🟢 (In Progress)*
 
 📫 **Connect with me**  
