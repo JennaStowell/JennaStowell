@@ -20,7 +20,7 @@ Here you’ll find a mix of hands-on security labs and coding projects that high
 
 📚 **Currently Learning**  
 - Securiti's AI Security and Governance Certificate ✅ 
-- CompTIA+ Security Cert  (In Progress)
+- CompTIA+ Security Cert  *🟢 (In Progress)*
 
 📫 **Connect with me**  
 - [LinkedIn](https://www.linkedin.com/in/jenna-m-stowell/)  
