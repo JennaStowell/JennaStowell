@@ -3,7 +3,7 @@ Hi, I'm Jenna 👋
 💻 **Computer Science Grad | Cybersecurity Enthusiast | Software Developer**  
 
 
-I use this GitHub to document my journey in **cybersecurity engineering** and **software development**.  
+I use this GitHub to document my journey in **cybersecurity projects** and **software development**.  
 Here you’ll find a mix of hands-on security labs and coding projects that highlight my technical skills, curiosity, and growth mindset.  
 
 📚 **Currently Accomplished**  
